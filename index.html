@@ -42,23 +42,28 @@
         <div class="flex items-center space-x-4 ">
             <img class="w-36" src="/assets/shopify-logo.png" alt="">
             <ul class="hidden md:flex space-x-4 text-gray-700">
-                <li>Start <strong >v</strong></li>
-                <li>Sell <strong>v</strong></li>
-                <li>Market <strong>v</strong></li>
-                <li>Manage <strong>v</strong></li>
+                <li class="flex hover:cursor-pointer">Start <img src="./assets/down-arrow.png" alt=""></li>
+                <li  class="flex hover:cursor-pointer">Sell  <img src="./assets/down-arrow.png" alt=""></li>
+                <li  class="flex hover:cursor-pointer">Market  <img src="./assets/down-arrow.png" alt=""></li>
+                <li  class="flex hover:cursor-pointer">Manage  <img src="./assets/down-arrow.png" alt=""></li>
             </ul>
         </div>
         <div>
-            <button class="text-gray-600 md:hidden ">Log in</button>
+            <div class="space-y-1 mt-3  lg:hidden">
+                <div class="w-4 h-0.5 bg-black"></div>
+                <div class="w-4 h-0.5 bg-black"></div>
+                <div class="w-4 h-0.5 bg-black"></div>
+            </div>
+           
         </div>
         <div class="hidden md:flex space-x-4  ">
            
             <ul class="flex space-x-4 text-gray-700 items-center ">
-                <li>Pricing</li>
-                <li>Learn <strong>v</strong></li>
-                <li>Log in</li>
+                <li class="hover:cursor-pointer">Pricing</li>
+                <li  class="flex hover:cursor-pointer">Learn  <img src="./assets/down-arrow.png" alt=""></li>
+                <li class="hover:cursor-pointer">Log in</li>
             </ul>
-            <button class=" text-white bg-lightGreen px-4 rounded">Try for free</button>
+            <button class="hover:bg-darkgreen hover: shadow-lg hover:shadow-green-900/50 text-white bg-lightGreen px-4 rounded">Try for free</button>
         </div>
     </nav>
     <!-- hero section starts -->
