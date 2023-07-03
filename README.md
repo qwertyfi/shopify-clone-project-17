@@ -7,11 +7,15 @@ I'm Wasit Ali and this is my 16th project and 2nd project in HTML and Tailwind C
 
 ## 🖥 Preview
 
-![](./assets/2022-10-14-18-10-40.png)
-![](./assets/2022-10-14-18-10-54.png)
-![](./assets/2022-10-14-18-11-07.png)
-![](./assets/2022-10-14-18-11-20.png)
-![](./assets/2022-10-14-18-11-41.png)
+![](./assets/preview-1.png)
+
+![](./assets/preview-2.png)
+
+![](./assets/preview-3.png)
+
+![](./assets/preview-4.png)
+
+![](./assets/preview-5.png)
 
 🚀 [Live Preview](https://coruscating-cat-82de84.netlify.app/)
 
