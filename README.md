@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Technologies%20Used-HTML--TAILWIND%20CSS-brightgreen)
 
-# Project-16 | Shopify Clone
+# Project-17 | Shopify Clone
 
 Hi there,
 I'm Wasit Ali and this is my 16th project and 2nd project in HTML and Tailwind CSS.
@@ -17,7 +17,7 @@ I'm Wasit Ali and this is my 16th project and 2nd project in HTML and Tailwind C
 
 ![](./assets/preview-5.png)
 
-🚀 [Live Preview](https://coruscating-cat-82de84.netlify.app/)
+🚀 [Live Preview](https://shopify-clone-project-17-ecru.vercel.app/)
 
 ## 🛠️ What I have learned in this project?
 
